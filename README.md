@@ -1,4 +1,4 @@
-# MCTS-for-Dynamic-Pricing
+# MCTS for Dynamic Pricing
 This project is pertinent to dynamic pricing for the fashion retail industry by using Monte Carlo Tree Search with UCB1 Strategy. For simplification, this demo version will focus on strategic pricing decision for 3 specific SKUs in a boutique store.
 
 K-Fashion is a boutique store for women’s fashion apparel located in a big shopping mall at the Causeway Bay. The store is targeting young female white-collar who care less about brand but more about fashion and price. 
